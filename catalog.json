@@ -1,0 +1,243 @@
+[
+    {
+        "id": 1,
+        "title": "Стул",
+        "image": "https://d37kg2ecsrm74.cloudfront.net/web/ikea4/images/382/0238233_PE377690_S5.jpg",
+        "descr": "Супер стул1",
+        "price": 3000,
+        "available": true
+    },
+    {
+        "id": 2,
+        "title": "Стул",
+        "image": "https://d37kg2ecsrm74.cloudfront.net/web/ikea4/images/382/0238233_PE377690_S5.jpg",
+        "descr": "Супер стул2",
+        "price": 30000,
+        "available": false
+    },
+    {
+        "id": 3,
+        "title": "Стул",
+        "image": "https://d37kg2ecsrm74.cloudfront.net/web/ikea4/images/382/0238233_PE377690_S5.jpg",
+        "descr": "Супер стул3",
+        "price": 3000,
+        "available": true
+    },
+    {
+        "id": 4,
+        "title": "Стул",
+        "image": "https://d37kg2ecsrm74.cloudfront.net/web/ikea4/images/382/0238233_PE377690_S5.jpg",
+        "descr": "Супер стул4",
+        "price": 2500,
+        "available": true
+    },
+    {
+        "id": 5,
+        "title": "Стул",
+        "image": "https://d37kg2ecsrm74.cloudfront.net/web/ikea4/images/382/0238233_PE377690_S5.jpg",
+        "descr": "Супер стул5",
+        "price": 2500,
+        "available": false
+    },
+    {
+        "id": 6,
+        "title": "Стул",
+        "image": "https://d37kg2ecsrm74.cloudfront.net/web/ikea4/images/382/0238233_PE377690_S5.jpg",
+        "descr": "Супер стул6",
+        "price": 1000,
+        "available": true
+    },
+    {
+        "id": 7,
+        "title": "Стул",
+        "image": "https://d37kg2ecsrm74.cloudfront.net/web/ikea4/images/382/0238233_PE377690_S5.jpg",
+        "descr": "Супер стул7",
+        "price": 1000,
+        "available": true
+    },
+    {
+        "id": 8,
+        "title": "Стул",
+        "image": "https://d37kg2ecsrm74.cloudfront.net/web/ikea4/images/382/0238233_PE377690_S5.jpg",
+        "descr": "Супер стул8",
+        "price": 2000,
+        "available": false
+    },
+    {
+        "id": 9,
+        "title": "Стул",
+        "image": "https://d37kg2ecsrm74.cloudfront.net/web/ikea4/images/382/0238233_PE377690_S5.jpg",
+        "descr": "Супер стул9",
+        "price": 3000,
+        "available": false
+    },
+    {
+        "id": 10,
+        "title": "Стол",
+        "image": "https://www.ikea.com/ru/ru/images/products/linnmon-adils-table__0737188_PE740929_S5.JPG?f=s",
+        "descr": "Супер стол1",
+        "price": 300,
+        "available": false
+    },
+    {
+        "id": 11,
+        "title": "Стол",
+        "image": "https://www.ikea.com/ru/ru/images/products/linnmon-adils-table__0737188_PE740929_S5.JPG?f=s",
+        "descr": "Супер стол2",
+        "price": 300,
+        "available": true
+    },
+    {
+        "id": 12,
+        "title": "Стол",
+        "image": "https://www.ikea.com/ru/ru/images/products/linnmon-adils-table__0737188_PE740929_S5.JPG?f=s",
+        "descr": "Супер стол3",
+        "price": 30000,
+        "available": true
+    },
+    {
+        "id": 13,
+        "title": "Стол",
+        "image": "https://www.ikea.com/ru/ru/images/products/linnmon-adils-table__0737188_PE740929_S5.JPG?f=s",
+        "descr": "Супер стол4",
+        "price": 300000,
+        "available": false
+    },
+    {
+        "id": 14,
+        "title": "Стол",
+        "image": "https://www.ikea.com/ru/ru/images/products/linnmon-adils-table__0737188_PE740929_S5.JPG?f=s",
+        "descr": "Супер стол5",
+        "price": 2500,
+        "available": true
+    },
+    {
+        "id": 15,
+        "title": "Стол",
+        "image": "https://www.ikea.com/ru/ru/images/products/linnmon-adils-table__0737188_PE740929_S5.JPG?f=s",
+        "descr": "Супер стол6",
+        "price": 6000,
+        "available": false
+    },
+    {
+        "id": 16,
+        "title": "Стол",
+        "image": "https://www.ikea.com/ru/ru/images/products/linnmon-adils-table__0737188_PE740929_S5.JPG?f=s",
+        "descr": "Супер стол7",
+        "price": 6600,
+        "available": true
+    },
+    {
+        "id": 17,
+        "title": "Стол",
+        "image": "https://www.ikea.com/ru/ru/images/products/linnmon-adils-table__0737188_PE740929_S5.JPG?f=s   ",
+        "descr": "Супер стол8",
+        "price": 6600,
+        "available": false
+    },
+    {
+        "id": 18,
+        "title": "Стол",
+        "image": "https://www.ikea.com/ru/ru/images/products/linnmon-adils-table__0737188_PE740929_S5.JPG?f=s",
+        "descr": "Супер стол9",
+        "price": 600,
+        "available": true
+    },
+    {
+        "id": 19,
+        "title": "Шкаф",
+        "image": "https://www.franmebel.ru/i/p/20/941/shkaf-kupe-agat-na-1400-venge.jpg",
+        "descr": "Супер шкаф1",
+        "price": 300,
+        "available": false
+    },
+    {
+        "id": 20,
+        "title": "Шкаф",
+        "image": "https://www.franmebel.ru/i/p/20/941/shkaf-kupe-agat-na-1400-venge.jpg",
+        "descr": "Супер шкаф2",
+        "price": 600,
+        "available": true
+    },
+    {
+        "id": 21,
+        "title": "Шкаф",
+        "image": "https://www.franmebel.ru/i/p/20/941/shkaf-kupe-agat-na-1400-venge.jpg",
+        "descr": "Супер шкаф3",
+        "price": 6600,
+        "available": false
+    },
+    {
+        "id": 22,
+        "title": "Шкаф",
+        "image": "https://www.franmebel.ru/i/p/20/941/shkaf-kupe-agat-na-1400-venge.jpg",
+        "descr": "Супер шкаф4",
+        "price": 6660,
+        "available": true
+    },
+    {
+        "id": 23,
+        "title": "Шкаф",
+        "image": "https://www.franmebel.ru/i/p/20/941/shkaf-kupe-agat-na-1400-venge.jpg",
+        "descr": "Супер шкаф5",
+        "price": 6000,
+        "available": true
+    },
+    {
+        "id": 24,
+        "title": "Шкаф",
+        "image": "https://www.franmebel.ru/i/p/20/941/shkaf-kupe-agat-na-1400-venge.jpg",
+        "descr": "Супер шкаф6",
+        "price": 2200,
+        "available": false
+    },
+    {
+        "id": 25,
+        "title": "Шкаф",
+        "image": "https://www.franmebel.ru/i/p/20/941/shkaf-kupe-agat-na-1400-venge.jpg",
+        "descr": "Супер шкаф7",
+        "price": 2300,
+        "available": true
+    },
+    {
+        "id": 26,
+        "title": "Шкаф",
+        "image": "https://www.franmebel.ru/i/p/20/941/shkaf-kupe-agat-na-1400-venge.jpg",
+        "descr": "Супер шкаф8",
+        "price": 3200,
+        "available": false
+    },
+    {
+        "id": 27,
+        "title": "Шкаф",
+        "image": "https://www.franmebel.ru/i/p/20/941/shkaf-kupe-agat-na-1400-venge.jpg",
+        "descr": "Супер шкаф9",
+        "price": 3100,
+        "available": true
+    },
+    {
+        "id": 28,
+        "title": "Шкаф",
+        "image": "https://www.franmebel.ru/i/p/20/941/shkaf-kupe-agat-na-1400-venge.jpg",
+        "descr": "Супер шкаф10",
+        "price": 3300,
+        "available": true
+    },
+    {
+        "id": 29,
+        "title": "Диван",
+        "image": "https://www.mnogodivanov.ru/image/cache/data/product/27936/divan_madrid_1_6_27936-840x630.jpg",
+        "descr": "Супер диван1",
+        "price": 30000,
+        "available": false
+    },
+    {
+        "id": 30,
+        "title": "Диван",
+        "image": "https://www.mnogodivanov.ru/image/cache/data/product/27936/divan_madrid_1_6_27936-840x630.jpg",
+        "descr": "Супер диван2",
+        "price": 30000,
+        "available": true
+    }
+    
+]
